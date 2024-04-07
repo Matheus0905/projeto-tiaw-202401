@@ -2,14 +2,19 @@
 
 **Introdução:**
 Dificuldade das ONGs em encontrar doadores para seus projetos destinados as pessoas vulneráveis na sociedade.
+
 **Problema:**
 ONGs tem dificuldades de encontrar doadores e administrar os recursos recebidos, dificultando as ações e os repasses e administração dos valores. As pessoas que se encontram em vulnerabilidade não recebem doações para ajuda-lás.
+
 **ODS:**
 2, 3 e 4.
+
 **Objetivo do Projeto:**
 Nosso projeto propõe a criação de um site onde ONGs possam se cadastrar, aumentando sua visibilidade e facilitando a captação de recursos. A plataforma permitiria doações diretas e transparentes, conectando doadores às causas que desejam apoiar. Isso fortaleceria as ONGs e garantiria que as comunidades vulneráveis recebessem o auxílio necessário de forma eficaz e sustentável.
+
 **Justificava Para o Projeto:**
 Esse projeto se justifica pela necessidade de fortalecer ONGs, melhorando sua captação de recursos. Ao criar um site para cadastramento e doações online, busca-se aumentar a visibilidade das organizações e conectar doadores às causas, garantindo uma ajuda mais eficiente e transparente para as comunidades vulneráveis.
+
 **Público Alvo:**
 1.População em vulnerabilidades social
 2.ONG's
@@ -41,6 +46,7 @@ legumes, massas, frutas, entre outros, os parceiros doam os excedentes à ONG qu
 repassa tudo às entidades sociais cadastradas no projeto. Essa distribuição permite a 
 complementação nutricional de refeições servidas para milhares de crianças, jovens, 
 adultos e idosos na cidade de São Paulo, todos os dias.
+
 **Requisitos do Projeto:**
 1.Facilidade de usar para todos: O site precisa ser fácil de navegar, tanto para as ONGs que querem se inscrever quanto para as pessoas que querem fazer doações. Ninguém quer ficar perdido em um site confuso, né?
 
