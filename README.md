@@ -63,4 +63,7 @@ adultos e idosos na cidade de São Paulo, todos os dias.
 7.Preparado para crescer: Vamos construir o site de forma que possamos adicionar mais recursos à medida que crescermos. Queremos garantir que possamos atender a uma demanda cada vez maior à medida que mais pessoas descobrem e usam nossa plataforma.
 
 **User Flow**
+
+
+
 ![PHOTO-2024-04-11-19-21-41](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/961db06c-6ea7-460b-a655-de29cd946aee)
