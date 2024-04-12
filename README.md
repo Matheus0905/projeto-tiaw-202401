@@ -67,3 +67,14 @@ adultos e idosos na cidade de São Paulo, todos os dias.
 
 
 ![PHOTO-2024-04-11-19-21-41](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/961db06c-6ea7-460b-a655-de29cd946aee)
+
+
+**Wireframes**
+
+
+
+![PHOTO-2024-04-10-20-19-10](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/9ad2f97f-68df-42bc-b0c2-452ef97f8501)
+
+
+**Protótipo Interativo**
+
