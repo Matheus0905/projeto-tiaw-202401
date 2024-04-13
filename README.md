@@ -21,14 +21,22 @@ ONGs tem dificuldades de encontrar doadores e administrar os recursos recebidos,
 2 (Fome Zero), 3 (Boa Saúde e Bem estar) e 4 (Educação de Qualidade).
 
 **Objetivo do Projeto:**
+
+
 Nosso projeto propõe a criação de um site onde ONGs possam se cadastrar, aumentando sua visibilidade e facilitando a captação de recursos. A plataforma permitiria doações diretas e transparentes, conectando doadores às causas que desejam apoiar. Isso fortaleceria as ONGs e garantiria que as comunidades vulneráveis recebessem o auxílio necessário de forma eficaz e sustentável.
 
 **Justificava Para o Projeto:**
+
+
 Esse projeto se justifica pela necessidade de fortalecer ONGs, melhorando sua captação de recursos. Ao criar um site para cadastramento e doações online, busca-se aumentar a visibilidade das organizações e conectar doadores às causas, garantindo uma ajuda mais eficiente e transparente para as comunidades vulneráveis.
 
 **Público Alvo:**
 1.População em vulnerabilidades social
+
+
 2.ONG's
+
+
 3.Doadores
 
 # Especificação do Projeto:
@@ -42,7 +50,7 @@ O que ela quer: Maria deseja aumentar a visibilidade da ONG de proteção animal
 
 Quem se beneficia: Maria e sua equipe da ONG.
 
-Por quê: Ao se cadastrar no site de ajuda a ONGs, Maria terá acesso a uma plataforma onde pode compartilhar a história da ONG, fotos e informações sobre os animais resgatados. Isso permite que eles alcancem uma audiência mais ampla e potencialmente conectem-se com mais apoiadores e adotantes, garantindo assim um futuro melhor para os animais sob seus cuidados.
+Por quê: ao se cadastrar no site de ajuda a ONGs, Maria terá acesso a uma plataforma onde pode compartilhar a história da ONG, fotos e informações sobre os animais resgatados. Isso permite que eles alcancem uma audiência mais ampla e potencialmente conectem-se com mais apoiadores e adotantes, garantindo assim um futuro melhor para os animais sob seus cuidados.
 
 
 2.Usuário: João, fundador de uma ONG que trabalha com educação infantil em comunidades carentes.
@@ -51,7 +59,7 @@ O que ele quer: João busca aumentar o alcance de sua ONG e atrair mais voluntá
 
 Quem se beneficia: João e as crianças das comunidades atendidas pela ONG.
 
-Por quê: Ao se cadastrar no site, João poderá compartilhar os sucessos de sua ONG, destacar as necessidades das crianças e solicitar apoio da comunidade e de potenciais parceiros. Isso possibilitará que mais crianças tenham acesso à educação de qualidade e oportunidades para um futuro melhor.
+Por quê: ao se cadastrar no site, João poderá compartilhar os sucessos de sua ONG, destacar as necessidades das crianças e solicitar apoio da comunidade e de potenciais parceiros. Isso possibilitará que mais crianças tenham acesso à educação de qualidade e oportunidades para um futuro melhor.
 
 
 3.Usuário: Ana, voluntária em uma ONG que fornece assistência médica gratuita em regiões remotas.
@@ -60,7 +68,7 @@ O que ela quer: Ana deseja encontrar uma plataforma onde possa se conectar com o
 
 Quem se beneficia: Ana e as pessoas atendidas pela ONG de assistência médica.
 
-Por quê: Ao se cadastrar no site, Ana terá acesso a uma comunidade de ONGs semelhantes, onde poderá trocar experiências, aprender com os outros e encontrar oportunidades de colaboração. Isso permite que sua ONG melhore seus serviços e alcance mais pessoas em áreas remotas que precisam de assistência médica.
+Por quê: ao se cadastrar no site, Ana terá acesso a uma comunidade de ONGs semelhantes, onde poderá trocar experiências, aprender com os outros e encontrar oportunidades de colaboração. Isso permite que sua ONG melhore seus serviços e alcance mais pessoas em áreas remotas que precisam de assistência médica.
 
 
 4.Usuário: Carlos, membro de uma ONG que combate a fome e a insegurança alimentar em sua cidade.
@@ -69,7 +77,7 @@ O que ele quer: Carlos busca uma maneira de divulgar os programas de distribuiç
 
 Quem se beneficia: Carlos e as pessoas que enfrentam insegurança alimentar em sua comunidade.
 
-Por quê: Ao se cadastrar no site, Carlos poderá criar um perfil para sua ONG e compartilhar informações sobre os programas de distribuição de alimentos. Isso ajuda a aumentar a conscientização sobre a disponibilidade de recursos alimentares e facilita o acesso das pessoas necessitadas aos serviços oferecidos pela ONG.
+Por quê: ao se cadastrar no site, Carlos poderá criar um perfil para sua ONG e compartilhar informações sobre os programas de distribuição de alimentos. Isso ajuda a aumentar a conscientização sobre a disponibilidade de recursos alimentares e facilita o acesso das pessoas necessitadas aos serviços oferecidos pela ONG.
 
 
 5.Usuário: Sofia, responsável por uma ONG que promove a inclusão de pessoas com deficiência no mercado de trabalho.
@@ -78,7 +86,7 @@ O que ela quer: Sofia procura uma plataforma onde possa recrutar voluntários e 
 
 Quem se beneficia: Sofia e as pessoas com deficiência que buscam oportunidades de emprego.
 
-Por quê: Ao se cadastrar no site, Sofia poderá compartilhar histórias de sucesso de pessoas com deficiência que foram inseridas no mercado de trabalho, além de destacar as necessidades e oportunidades de colaboração. Isso ajuda a sensibilizar a comunidade e atrair parceiros que possam oferecer oportunidades de emprego e suporte para as pessoas com deficiência.
+Por quê: ao se cadastrar no site, Sofia poderá compartilhar histórias de sucesso de pessoas com deficiência que foram inseridas no mercado de trabalho, além de destacar as necessidades e oportunidades de colaboração. Isso ajuda a sensibilizar a comunidade e atrair parceiros que possam oferecer oportunidades de emprego e suporte para as pessoas com deficiência.
 
 
 6.Usuário: Lucas, estudante universitário interessado em realizar trabalho voluntário em sua área de estudo.
@@ -87,7 +95,7 @@ O que ele quer: Lucas está em busca de uma plataforma onde possa encontrar opor
 
 Quem se beneficia: Lucas e as organizações que precisam de voluntários com conhecimento específico.
 
-Por quê: Ao se cadastrar no site, Lucas pode pesquisar por oportunidades de voluntariado que correspondam aos seus interesses e habilidades. Isso permite que ele contribua de forma significativa para projetos relevantes enquanto adquire experiência prática em sua área de estudo.
+Por quê: ao se cadastrar no site, Lucas pode pesquisar por oportunidades de voluntariado que correspondam aos seus interesses e habilidades. Isso permite que ele contribua de forma significativa para projetos relevantes enquanto adquire experiência prática em sua área de estudo.
 
 
 7.Usuário: Mariana, empresária interessada em apoiar causas sociais por meio de parcerias corporativas.
@@ -96,7 +104,7 @@ O que ela quer: Mariana busca uma plataforma onde possa encontrar ONGs confiáve
 
 Quem se beneficia: Mariana e as ONGs que buscam parcerias corporativas.
 
-Por quê: Ao se cadastrar no site, Mariana terá acesso a um diretório de ONGs e projetos sociais, onde poderá encontrar iniciativas alinhadas aos objetivos de responsabilidade social de sua empresa. Isso facilita o processo de identificação e seleção de parcerias significativas que geram impacto positivo na comunidade.
+Por quê: ao se cadastrar no site, Mariana terá acesso a um diretório de ONGs e projetos sociais, onde poderá encontrar iniciativas alinhadas aos objetivos de responsabilidade social de sua empresa. Isso facilita o processo de identificação e seleção de parcerias significativas que geram impacto positivo na comunidade.
 
 
 8.Usuário: Pedro, jornalista interessado em encontrar histórias inspiradoras de ONGs para publicar em seu site de notícias locais.
@@ -105,7 +113,7 @@ O que ele quer: Pedro procura uma fonte confiável onde possa descobrir e compar
 
 Quem se beneficia: Pedro e o público interessado em notícias positivas e impactantes.
 
-Por quê: Ao se cadastrar no site, Pedro terá acesso a uma variedade de histórias de ONGs que estão fazendo a diferença em sua comunidade. Isso fornece a ele material relevante e emocionante para compartilhar com seu público, ao mesmo tempo em que amplifica as vozes das ONGs e aumenta sua visibilidade na mídia local.
+Por quê: ao se cadastrar no site, Pedro terá acesso a uma variedade de histórias de ONGs que estão fazendo a diferença em sua comunidade. Isso fornece a ele material relevante e emocionante para compartilhar com seu público, ao mesmo tempo em que amplifica as vozes das ONGs e aumenta sua visibilidade na mídia local.
 
 
 **Requisitos do Projeto:**
@@ -172,9 +180,9 @@ RF10.Segurança e Privacidade: Deve-se garantir que os dados pessoais dos usuár
 
 Divisão dos papéis:
 
-1.Pedro Maia Claudio Vilaça Ferreira: Scrumm Master, Tela de inicio, Wireframe, Tela de Documentação.
+1.Pedro Maia Claudio Vilaça Ferreira: Scrum Master, Tela de inicio, Wireframe, Tela de Documentação.
 
-2.Luiza Rodrigues Vertelo: Apresentação do Projeto, Planilha.
+2.Luiza Rodrigues Vertelo: Product Owner (PO), Apresentação do Projeto, Planilha.
 
 3.Matheus Henrique de Carvalho Costa: Footer, Documentação do projeto.
 
