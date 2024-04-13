@@ -131,22 +131,16 @@ RF3.Busca e Filtro: Deve haver uma funcionalidade de busca e filtro que permita 
 RF4.Histórias de Sucesso: O site deve incluir uma seção dedicada a destacar histórias inspiradoras de sucesso de ONGs e seus impactos na comunidade, para engajar e motivar tanto voluntários quanto potenciais doadores.
 
 
-RF5.Comunidade e Colaboração: Deve haver recursos para facilitar a interação e colaboração entre as ONGs cadastradas, como fóruns de discussão, grupos de interesse e oportunidades de parceria.
+RF5.Recursos de Voluntariado: O site deve oferecer uma plataforma onde os usuários possam encontrar e se inscrever em oportunidades de voluntariado que correspondam aos seus interesses e habilidades.
 
 
-RF6.Recursos de Voluntariado: O site deve oferecer uma plataforma onde os usuários possam encontrar e se inscrever em oportunidades de voluntariado que correspondam aos seus interesses e habilidades.
+RF6.Destaque para Parceiros Corporativos: Deve haver espaço para destacar parcerias corporativas com as ONGs, reconhecendo e promovendo as empresas que apoiam causas sociais.
 
 
-RF7.Destaque para Parceiros Corporativos: Deve haver espaço para destacar parcerias corporativas com as ONGs, reconhecendo e promovendo as empresas que apoiam causas sociais.
+RF7.Métricas de Impacto: O site deve incluir recursos para acompanhar e relatar o impacto das ONGs cadastradas, como número de voluntários recrutados, doações arrecadadas e pessoas atendidas.
 
 
-RF8.Métricas de Impacto: O site deve incluir recursos para acompanhar e relatar o impacto das ONGs cadastradas, como número de voluntários recrutados, doações arrecadadas e pessoas atendidas.
-
-
-RF9.Facilidade de Compartilhamento: Deve ser fácil para os usuários compartilharem informações sobre as ONGs e oportunidades de voluntariado em suas redes sociais e círculos pessoais, para ampliar o alcance e engajamento.
-
-
-RF10.Segurança e Privacidade: Deve-se garantir que os dados pessoais dos usuários e informações confidenciais das ONGs sejam protegidos por medidas de segurança adequadas e em conformidade com regulamentações de privacidade.
+RF8.Segurança e Privacidade: Deve-se garantir que os dados pessoais dos usuários e informações confidenciais das ONGs sejam protegidos por medidas de segurança adequadas e em conformidade com regulamentações de privacidade.
 
 
 **User Flow**
