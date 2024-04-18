@@ -188,3 +188,7 @@ Divisão dos papéis:
 
 **Quadro de controle de tarefas**
 
+**Personas**
+
+![image](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/21994e42-12df-44a5-93df-bb8893b8cbc0)
+
