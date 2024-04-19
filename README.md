@@ -31,6 +31,7 @@ Nosso projeto propõe a criação de um site onde ONGs possam se cadastrar, aume
 Esse projeto se justifica pela necessidade de fortalecer ONGs, melhorando sua captação de recursos. Ao criar um site para cadastramento e doações online, busca-se aumentar a visibilidade das organizações e conectar doadores às causas, garantindo uma ajuda mais eficiente e transparente para as comunidades vulneráveis.
 
 **Público Alvo:**
+
 1.População em vulnerabilidades social
 
 
@@ -51,6 +52,9 @@ O que ela quer: Maria deseja aumentar a visibilidade da ONG de proteção animal
 Quem se beneficia: Maria e sua equipe da ONG.
 
 Por quê: ao se cadastrar no site de ajuda a ONGs, Maria terá acesso a uma plataforma onde pode compartilhar a história da ONG, fotos e informações sobre os animais resgatados. Isso permite que eles alcancem uma audiência mais ampla e potencialmente conectem-se com mais apoiadores e adotantes, garantindo assim um futuro melhor para os animais sob seus cuidados.
+
+1. Maria: como coordenadora de uma pequena ONG local de proteção animal, desejo aumentar a visibilidade da ONG para atrair mais doações, voluntários e adotantes para os animais resgatados, com o objetivo de garantir um futuro melhor para os animais sob nossos cuidados.
+Por que: Ao me cadastrar no site de ajuda a ONGs, eu desejo ter acesso a uma plataforma onde possa compartilhar a história da ONG, fotos e informações sobre os animais resgatados, para que possamos alcançar uma audiência mais ampla e potencialmente nos conectar com mais apoiadores e adotantes.
 
 
 2.Usuário: João, fundador de uma ONG que trabalha com educação infantil em comunidades carentes.
@@ -119,28 +123,28 @@ Por quê: ao se cadastrar no site, Pedro terá acesso a uma variedade de histór
 **Requisitos do Projeto:**
 
 
-RF1.Cadastro de ONGs: O site deve permitir que as ONGs se cadastrem, fornecendo informações detalhadas sobre sua missão, programas, áreas de atuação e necessidades específicas.
+RF1.Cadastro de ONGs: o site deve permitir que as ONGs se cadastrem, fornecendo informações detalhadas sobre sua missão, programas, áreas de atuação e necessidades específicas.
 
 
-RF2.Perfil de Usuário: Os usuários devem poder criar perfis personalizados, com opções para atualizar informações, como interesses de voluntariado, habilidades, e preferências de notificação.
+RF2.Perfil de Usuário: os usuários devem poder criar perfis personalizados, com opções para atualizar informações, como interesses de voluntariado, habilidades, e preferências de notificação.
 
 
-RF3.Busca e Filtro: Deve haver uma funcionalidade de busca e filtro que permita aos usuários encontrar ONGs com base em critérios como localização geográfica, área de atuação, público atendido, etc.
+RF3.Busca e Filtro: deve haver uma funcionalidade de busca e filtro que permita aos usuários encontrar ONGs com base em critérios como localização geográfica, área de atuação, público atendido, etc.
 
 
-RF4.Histórias de Sucesso: O site deve incluir uma seção dedicada a destacar histórias inspiradoras de sucesso de ONGs e seus impactos na comunidade, para engajar e motivar tanto voluntários quanto potenciais doadores.
+RF4.Histórias de Sucesso: o site deve incluir uma seção dedicada a destacar histórias inspiradoras de sucesso de ONGs e seus impactos na comunidade, para engajar e motivar tanto voluntários quanto potenciais doadores.
 
 
-RF5.Recursos de Voluntariado: O site deve oferecer uma plataforma onde os usuários possam encontrar e se inscrever em oportunidades de voluntariado que correspondam aos seus interesses e habilidades.
+RF5.Recursos de Voluntariado: o site deve oferecer uma plataforma onde os usuários possam encontrar e se inscrever em oportunidades de voluntariado que correspondam aos seus interesses e habilidades.
 
 
-RF6.Destaque para Parceiros Corporativos: Deve haver espaço para destacar parcerias corporativas com as ONGs, reconhecendo e promovendo as empresas que apoiam causas sociais.
+RF6.Destaque para Parceiros Corporativos: deve haver espaço para destacar parcerias corporativas com as ONGs, reconhecendo e promovendo as empresas que apoiam causas sociais.
 
 
-RF7.Métricas de Impacto: O site deve incluir recursos para acompanhar e relatar o impacto das ONGs cadastradas, como número de voluntários recrutados, doações arrecadadas e pessoas atendidas.
+RF7.Métricas de Impacto: o site deve incluir recursos para acompanhar e relatar o impacto das ONGs cadastradas, como número de voluntários recrutados, doações arrecadadas e pessoas atendidas.
 
 
-RF8.Segurança e Privacidade: Deve-se garantir que os dados pessoais dos usuários e informações confidenciais das ONGs sejam protegidos por medidas de segurança adequadas e em conformidade com regulamentações de privacidade.
+RF8.Segurança e Privacidade: deve-se garantir que os dados pessoais dos usuários e informações confidenciais das ONGs sejam protegidos por medidas de segurança adequadas e em conformidade com regulamentações de privacidade.
 
 
 **User Flow**
