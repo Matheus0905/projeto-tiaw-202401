@@ -40,9 +40,11 @@ Esse projeto se justifica pela necessidade de fortalecer ONGs, melhorando sua ca
 
 3.Doadores
 
-# Especificação do Projeto:
+# Especificações do Projeto:
 
-**História de Usuários:**
+
+
+# História de Usuários:
 
 
 1.Usuário: Maria, coordenadora de uma pequena ONG local de proteção animal
@@ -117,7 +119,7 @@ Quem se beneficia: Pedro e o público interessado em notícias positivas e impac
 Por quê: ao se cadastrar no site, Pedro terá acesso a uma variedade de histórias de ONGs que estão fazendo a diferença em sua comunidade. Isso fornece a ele material relevante e emocionante para compartilhar com seu público, ao mesmo tempo em que amplifica as vozes das ONGs e aumenta sua visibilidade na mídia local.
 
 
-**Requisitos do Projeto:**
+# Requisitos do Projeto:
 
 
 RF1.Cadastro de ONGs: o site deve permitir que as ONGs se cadastrem, fornecendo informações detalhadas sobre sua missão, programas, áreas de atuação e necessidades específicas.
@@ -144,48 +146,105 @@ RF7.Métricas de Impacto: o site deve incluir recursos para acompanhar e relatar
 RF8.Segurança e Privacidade: deve-se garantir que os dados pessoais dos usuários e informações confidenciais das ONGs sejam protegidos por medidas de segurança adequadas e em conformidade com regulamentações de privacidade.
 
 
-**User Flow**
+
+
+# User Flow
+
+![Captura de tela 2024-04-20 195318](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/4786e795-b108-496e-8578-a704d70949fe)
 
 
 https://www.figma.com/file/Ub2apSx6d1lEembTdsbZh7/UserFlow?type=design&node-id=0-1&mode=design&t=Rwb3KZCYlEq05Gss-0
 
 
-**Wireframes**
+
+
+# Wireframes
+
+
+![Imagem do WhatsApp de 2024-04-19 à(s) 14 48 23_9e346793](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/0914c3b2-35ef-4209-a118-f0cb7ae14d50)
+
+
+
+
+![Imagem do WhatsApp de 2024-04-19 à(s) 14 49 18_23fb50bf](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/902ac583-2073-4780-b9b4-ad6199c4a658)
+
+
+
+
+![Imagem do WhatsApp de 2024-04-19 à(s) 14 48 49_e5a47851](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/1587205d-a741-4363-9f86-eb74b21807ba)
+
+
+
+https://marvelapp.com/project/7013115/design/94312812
 
 
 
 
 
 
-**Protótipo Interativo**
+
+# Protótipo Interativo
+
+
+![Captura de tela 2024-04-20 195318](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/4786e795-b108-496e-8578-a704d70949fe)
+
+https://www.figma.com/file/Ub2apSx6d1lEembTdsbZh7/UserFlow?type=design&node-id=0-1&mode=design&t=Rwb3KZCYlEq05Gss-0
 
 
 
 
-**Organização da Equipe**
+
+# Organização da Equipe
 
 Divisão dos papéis:
 
-1.Pedro Maia Claudio Vilaça Ferreira: Scrum Master, Tela de inicio, Wireframe, Tela de Documentação.
+1.Pedro Maia Claudio Vilaça Ferreira:
 
-2.Luiza Rodrigues Vertelo: Product Owner (PO), Apresentação do Projeto, Planilha.
 
-3.Matheus Henrique de Carvalho Costa: Footer, Documentação do projeto.
+Scrum Master, Tela de inicio, Wireframe, Tela de Documentação.
 
-4.Hugo Ferreira Silva: Userflow, Protótipo Interativo.
+2.Luiza Rodrigues Vertelo:
 
-5.Luis Felipe Alves de Lemos : Tela de Login, Tela de Registro, Wireframe.
 
-6.João Vitor Barros Cabral: Userflow, Cabeçalho.
+Product Owner (PO), Apresentação do Projeto, Planilha.
 
-**Quadro de controle de tarefas**
+3.Matheus Henrique de Carvalho Costa: 
+
+
+Footer, Documentação do projeto.
+
+4.Hugo Ferreira Silva:
+
+
+Userflow, Protótipo Interativo.
+
+5.Luis Felipe Alves de Lemos : 
+
+
+Tela de Login, Tela de Registro, Wireframe.
+
+6.João Vitor Barros Cabral: 
+
+
+Userflow, Cabeçalho.
+
+
+
+
+
+
+# Quadro de controle de tarefas
 
 
 ![TRELLO](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/4d36f54f-9118-4d24-b5da-f3cbefb80429)
 
 https://trello.com/invite/b/UftV49sA/ATTIe2e2fc19f8303fa693d7d67676245a92256E2FBD/central-de-organizacao-da-equipe
 
-**Personas**
+
+
+
+
+# Personas
 
 https://github.com/Matheus0905/projeto-tiaw-202401/blob/main/page_7662_638490588375619759.pdf
 
@@ -193,7 +252,16 @@ https://github.com/Matheus0905/projeto-tiaw-202401/blob/main/page_7662_638490582
 
 https://github.com/Matheus0905/projeto-tiaw-202401/blob/main/malu%20santos%20persona.pdf
 
-**Slide do Projeto**
+
+
+# Slide do Projeto
+
 
 https://github.com/Matheus0905/projeto-tiaw-202401/blob/main/Trabalho%20interdisciplinar%20Slide.pdf
+
+
+# Repositório GitHub
+
+
+https://github.com/pmaiaf/Projeto-ONG
 
