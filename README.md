@@ -53,9 +53,6 @@ Quem se beneficia: Maria e sua equipe da ONG.
 
 Por quê: ao se cadastrar no site de ajuda a ONGs, Maria terá acesso a uma plataforma onde pode compartilhar a história da ONG, fotos e informações sobre os animais resgatados. Isso permite que eles alcancem uma audiência mais ampla e potencialmente conectem-se com mais apoiadores e adotantes, garantindo assim um futuro melhor para os animais sob seus cuidados.
 
-1. Maria: como coordenadora de uma pequena ONG local de proteção animal, desejo aumentar a visibilidade da ONG para atrair mais doações, voluntários e adotantes para os animais resgatados, com o objetivo de garantir um futuro melhor para os animais sob nossos cuidados.
-Por que: Ao me cadastrar no site de ajuda a ONGs, eu desejo ter acesso a uma plataforma onde possa compartilhar a história da ONG, fotos e informações sobre os animais resgatados, para que possamos alcançar uma audiência mais ampla e potencialmente nos conectar com mais apoiadores e adotantes.
-
 
 2.Usuário: João, fundador de uma ONG que trabalha com educação infantil em comunidades carentes.
 
@@ -150,21 +147,12 @@ RF8.Segurança e Privacidade: deve-se garantir que os dados pessoais dos usuári
 **User Flow**
 
 
-
-![PHOTO-2024-04-11-19-21-41](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/961db06c-6ea7-460b-a655-de29cd946aee)
+https://www.figma.com/file/Ub2apSx6d1lEembTdsbZh7/UserFlow?type=design&node-id=0-1&mode=design&t=Rwb3KZCYlEq05Gss-0
 
 
 **Wireframes**
 
 
-
-![PHOTO-2024-04-10-20-19-10](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/9ad2f97f-68df-42bc-b0c2-452ef97f8501)
-
-
-![PHOTO-2024-04-10-20-18-53](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/4b6d2a56-7317-4ee1-8304-70b609d46aac)
-
-
-![PHOTO-2024-04-10-20-18-20](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/6ca392ad-834a-4861-9962-c1063d39e23c)
 
 
 
@@ -192,9 +180,15 @@ Divisão dos papéis:
 
 **Quadro de controle de tarefas**
 
+
+![TRELLO](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/4d36f54f-9118-4d24-b5da-f3cbefb80429)
+
+https://trello.com/invite/b/UftV49sA/ATTIe2e2fc19f8303fa693d7d67676245a92256E2FBD/central-de-organizacao-da-equipe
+
 **Personas**
 
 https://github.com/Matheus0905/projeto-tiaw-202401/blob/main/page_7662_638490588375619759.pdf
 
 https://github.com/Matheus0905/projeto-tiaw-202401/blob/main/page_7662_638490582384852620.pdf
+
 
