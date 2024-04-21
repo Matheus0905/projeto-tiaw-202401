@@ -150,7 +150,8 @@ RF8.Segurança e Privacidade: deve-se garantir que os dados pessoais dos usuári
 
 # User Flow
 
-![Captura de tela 2024-04-20 195318](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/4786e795-b108-496e-8578-a704d70949fe)
+
+![Captura de tela 2024-04-21 144032](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/c0c04e9f-8129-4fae-8c4a-e5a35133f86e)
 
 
 https://www.figma.com/file/Ub2apSx6d1lEembTdsbZh7/UserFlow?type=design&node-id=0-1&mode=design&t=Rwb3KZCYlEq05Gss-0
@@ -161,17 +162,24 @@ https://www.figma.com/file/Ub2apSx6d1lEembTdsbZh7/UserFlow?type=design&node-id=0
 # Wireframes
 
 
-![Imagem do WhatsApp de 2024-04-19 à(s) 14 48 23_9e346793](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/0914c3b2-35ef-4209-a118-f0cb7ae14d50)
 
 
 
-
-![Imagem do WhatsApp de 2024-04-19 à(s) 14 49 18_23fb50bf](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/902ac583-2073-4780-b9b4-ad6199c4a658)
-
+![1](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/1fa28fb6-f9d8-429c-a37a-70f1dbb4cb3b)
 
 
+![2](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/cf1f1ad9-1660-4ff8-9f28-d6d3bc3448c6)
 
-![Imagem do WhatsApp de 2024-04-19 à(s) 14 48 49_e5a47851](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/1587205d-a741-4363-9f86-eb74b21807ba)
+
+![3](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/a66d6602-34b9-4c3a-93e6-0fe94e1d5bf3)
+
+
+![4](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/1882245e-4fe0-4751-acf5-ca10a48169df)
+
+
+![5](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/a6e1aef5-07e1-4d64-a501-7d279ec71107)
+
+
 
 
 
@@ -186,7 +194,7 @@ https://marvelapp.com/project/7013115/design/94312812
 # Protótipo Interativo
 
 
-![Captura de tela 2024-04-20 195318](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/4786e795-b108-496e-8578-a704d70949fe)
+![Captura de tela 2024-04-21 144032](https://github.com/Matheus0905/projeto-tiaw-202401/assets/164427658/c0c04e9f-8129-4fae-8c4a-e5a35133f86e)
 
 https://www.figma.com/file/Ub2apSx6d1lEembTdsbZh7/UserFlow?type=design&node-id=0-1&mode=design&t=Rwb3KZCYlEq05Gss-0
 
