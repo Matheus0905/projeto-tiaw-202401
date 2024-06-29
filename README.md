@@ -125,7 +125,7 @@ Por quê: ao se cadastrar no site, Pedro terá acesso a uma variedade de histór
 RF1.Cadastro de ONGs: o site deve permitir que as ONGs se cadastrem, fornecendo informações detalhadas sobre sua missão, programas, áreas de atuação e necessidades específicas.
 
 
-RF2.Perfil de Usuário: os usuários devem poder criar perfis personalizados, com opções para atualizar informações, como interesses de voluntariado, habilidades, e preferências de notificação.
+RF2.Perfil de Usuário: os usuários devem poder criar perfis personalizados, com opções para atualizar informações, como interesses de voluntariado.
 
 
 RF3.Busca e Filtro: deve haver uma funcionalidade de busca e filtro que permita aos usuários encontrar ONGs com base em critérios como localização geográfica, área de atuação, público atendido, etc.
@@ -137,13 +137,7 @@ RF4.Histórias de Sucesso: o site deve incluir uma seção dedicada a destacar h
 RF5.Recursos de Voluntariado: o site deve oferecer uma plataforma onde os usuários possam encontrar e se inscrever em oportunidades de voluntariado que correspondam aos seus interesses e habilidades.
 
 
-RF6.Destaque para Parceiros Corporativos: deve haver espaço para destacar parcerias corporativas com as ONGs, reconhecendo e promovendo as empresas que apoiam causas sociais.
-
-
-RF7.Métricas de Impacto: o site deve incluir recursos para acompanhar e relatar o impacto das ONGs cadastradas, como número de voluntários recrutados, doações arrecadadas e pessoas atendidas.
-
-
-RF8.Segurança e Privacidade: deve-se garantir que os dados pessoais dos usuários e informações confidenciais das ONGs sejam protegidos por medidas de segurança adequadas e em conformidade com regulamentações de privacidade.
+RF6.Segurança e Privacidade: deve-se garantir que os dados pessoais dos usuários e informações confidenciais das ONGs sejam protegidos por medidas de segurança adequadas e em conformidade com regulamentações de privacidade.
 
 
 
@@ -278,4 +272,16 @@ https://github.com/Matheus0905/projeto-tiaw-202401/blob/main/Trabalho%20interdis
 
 
 https://github.com/pmaiaf/Projeto-ONG
+
+
+# Tecnologias utilizadas: 
+
+1-HTML
+
+2-CSS
+
+3-JavaScript
+
+4-Json
+
 
